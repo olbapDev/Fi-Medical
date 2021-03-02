@@ -1,0 +1,69 @@
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaGUI.exe.config
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaGUI.exe
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaGUI.pdb
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaDTO.dll
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaNegocio.dll
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaConexion.dll
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaDTO.pdb
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaNegocio.pdb
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaConexion.pdb
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csprojAssemblyReference.cache
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.AgregarFichaMedica.resources
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.ConsultarFicha.resources
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.ConsultarPaciente.resources
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.Login.resources
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.Menu.resources
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.AgregarPaciente.resources
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.ModificarFecha.resources
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csproj.CopyComplete
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.exe
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.pdb
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaGUI.exe.config
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaGUI.exe
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaGUI.pdb
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaDTO.dll
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaNegocio.dll
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaConexion.dll
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaDTO.pdb
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaNegocio.pdb
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaConexion.pdb
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csprojAssemblyReference.cache
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.AgregarFichaMedica.resources
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.ConsultarFicha.resources
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.ConsultarPaciente.resources
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.Login.resources
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.Menu.resources
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.AgregarPaciente.resources
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.ModificarFecha.resources
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csproj.CopyComplete
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.exe
+C:\DATOS\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.pdb
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaGUI.exe.config
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaGUI.exe
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaGUI.pdb
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaDTO.dll
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaNegocio.dll
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaConexion.dll
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaDTO.pdb
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaNegocio.pdb
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\bin\Debug\CapaConexion.pdb
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csprojAssemblyReference.cache
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.AgregarFichaMedica.resources
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.ConsultarFicha.resources
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.ConsultarPaciente.resources
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.Login.resources
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.Menu.resources
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.AgregarPaciente.resources
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.ModificarFecha.resources
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.csproj.CopyComplete
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.exe
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaGUI\obj\Debug\CapaGUI.pdb

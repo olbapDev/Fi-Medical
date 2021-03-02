@@ -1,0 +1,12 @@
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\bin\Debug\CapaDTO.dll
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\bin\Debug\CapaDTO.pdb
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\obj\Debug\CapaDTO.csprojAssemblyReference.cache
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\obj\Debug\CapaDTO.csproj.CoreCompileInputs.cache
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\obj\Debug\CapaDTO.dll
+G:\DATOSduoc\DUOC\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\obj\Debug\CapaDTO.pdb
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\bin\Debug\CapaDTO.dll
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\bin\Debug\CapaDTO.pdb
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\obj\Debug\CapaDTO.csprojAssemblyReference.cache
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\obj\Debug\CapaDTO.csproj.CoreCompileInputs.cache
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\obj\Debug\CapaDTO.dll
+C:\Users\FATNIEL\Downloads\Gestion Ágil\Gestion Ágil\ProyectoSemestral\Fi-Medical\CapaDTO\obj\Debug\CapaDTO.pdb
